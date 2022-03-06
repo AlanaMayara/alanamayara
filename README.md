@@ -2,7 +2,7 @@
 
 Sou guiada por meus valores e acredito no mundo da tecnologia como meio relevante para contribuir com a igualdade e inclusão na sociedade e trabalho.<br>
 🟣Sou de Aracaju- Sergipe<br>
-🟣Estou em transição de carreira<br>
+🟣Trabalhando com UX UI designer<br>
 🟣Foco: UX UI Designer 
 
 <div align="center">

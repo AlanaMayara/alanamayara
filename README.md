@@ -1,6 +1,8 @@
 ## Olá, eu sou a Alana Mayara!
 
-Sou guiada por meus valores e acredito no mundo da tecnologia como meio relevante para contribuir com a igualdade e inclusão na sociedade e trabalho.<br>
+Sou uma UX UI designer guiada por meus valores. Acredito no mundo da tecnologia como meio relevante para contribuir com a igualdade e inclusão na sociedade e trabalho. Sou fascinada por inovação, sinto-me desafiada e motivada ao solucionar problemas.<br>
+
+Projetar interfaces é o que move meus dias e meus pensamentos.<br>
 🟣Sou de Aracaju- Sergipe<br>
 🟣Trabalhando com UX UI designer<br>
 🟣Foco: UX UI Designer 

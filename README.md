@@ -4,9 +4,8 @@ Sou uma UX UI designer guiada por meus valores. Acredito no mundo da tecnologia 
 
 Projetar interfaces é o que move meus dias e meus pensamentos.<br>
 
-🟣Sou de Aracaju- Sergipe<br>
-🟣Trabalhando com UX UI designer<br>
-🟣Foco: UX UI Designer 
+🟣Aracaju- Sergipe<br>
+🟣UX UI Designer 
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alanamayara&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>

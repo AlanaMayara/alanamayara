@@ -1,8 +1,13 @@
-## Olá, eu sou a Alana Mayara!
+## Olá, eu sou a Alana Santos!
 
-Sou uma UX UI designer guiada por meus valores. Acredito no mundo da tecnologia como meio relevante para contribuir com a igualdade e inclusão na sociedade e trabalho. Sou fascinada por inovação, sinto-me desafiada e motivada ao solucionar problemas.<br>
+Olá! 
+Sou Product Designer com experiência em produtos SaaS B2B e B2C, atuando na criação de soluções acessíveis, escaláveis e alinhadas ao negócio. Trabalho com foco em discovery, tomada de decisão fundamentada e interfaces que lidam com regras complexas.
 
-Projetar interfaces é o que move meus dias e meus pensamentos.<br>
+Já atuei em projetos de empresas como TOTVS, Embraer, Omie e Feedz, contribuindo para a construção de Design Systems, evolução contínua de produtos e colaboração estratégica em squads ágeis.
+
+Acredito em um design crítico, consciente e orientado a impacto real nas pessoas e nos produtos.
+
+👀 Interesses: discovery, design estratégico, acessibilidade, cultura de produto e feedbacks..<br>
 
 🟣Aracaju- Sergipe<br>
 🟣UX UI Designer 
